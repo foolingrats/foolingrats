@@ -1,4 +1,6 @@
-![](<img width="791" height="522" alt="littlemarkandlittleron" src="https://github.com/user-attachments/assets/41f14af8-a231-482b-83fa-de10867ffa2b" />)
+<img width="791" height="522" alt="littlemarkandlittleron" src="https://github.com/user-attachments/assets/41f14af8-a231-482b-83fa-de10867ffa2b" />
+
+I love my Friends
 
 
 <!--
