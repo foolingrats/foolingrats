@@ -1,4 +1,5 @@
-## Hi there 👋
+![](<img width="791" height="522" alt="littlemarkandlittleron" src="https://github.com/user-attachments/assets/41f14af8-a231-482b-83fa-de10867ffa2b" />)
+
 
 <!--
 **foolingrats/foolingrats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
